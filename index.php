@@ -2,6 +2,8 @@
   require 'header.php';
 ?>
 
+<title>FITONOBI</title>
+
 <div id="myCarousel" class="carousel slide" data-ride="carousel">
 
 <div class="carousel-indicators">
@@ -66,3 +68,43 @@
   height: 32rem;
 }
   </style>
+
+
+  <div class="container marketing" style="margin-bottom: 1.5rem; text-align: center;">
+
+    <!-- Three columns of text below the carousel -->
+    <div class="row">
+      <div class="col-lg-4" >
+       <img src="img/avatar2.png" class="bd-placeholder-img rounded-circle" width="140" height="140" role="img"/>
+
+        <h2>Mr. Udana Herath</h2>
+        <p>The founder and CEO of FITONOBI Organization.</p>
+        
+      </div><!-- /.col-lg-4 -->
+      <div class="col-lg-4">
+        <img src="img/avatar1.png" class="bd-placeholder-img rounded-circle" width="140" height="140" role="img"/>
+
+        <h2>Ms. Nishani Baddegama</h2>
+        <p>A founding member</p>
+        
+      </div><!-- /.col-lg-4 -->
+      <div class="col-lg-4">
+       <img src="img/avatar3.png" class="bd-placeholder-img rounded-circle" width="140" height="140" role="img"/>
+
+        <h2>Mr. Chandana Weerasekara</h2>
+        <p>A founding member</p>
+        
+      </div><!-- /.col-lg-4 -->
+    </div><!-- /.row -->
+</div>
+
+<style>
+  .marketing h2 {
+  font-weight: 400;
+}
+/* rtl:begin:ignore */
+.marketing .col-lg-4 p {
+  margin-right: .75rem;
+  margin-left: .75rem;
+}
+</style>
