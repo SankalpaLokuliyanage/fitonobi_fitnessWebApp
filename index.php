@@ -108,3 +108,8 @@
   margin-left: .75rem;
 }
 </style>
+
+
+<?php
+  require 'footer.php';
+?>
