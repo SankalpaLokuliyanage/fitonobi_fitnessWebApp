@@ -67,7 +67,7 @@
         <a class="nav-link" style="font-size: 30px; padding-right: 30px; font-weight: bold; font-family: 'Times New Roman', Times, serif;" href="imageGallery.php">IMAGE GALLERY</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" style="font-size: 30px; padding-right: 30px; font-weight: bold; font-family: 'Times New Roman', Times, serif;" href="#">ARTICLES</a>
+        <a class="nav-link" style="font-size: 30px; padding-right: 30px; font-weight: bold; font-family: 'Times New Roman', Times, serif;" href="allArticles.php">ARTICLES</a>
       </li>
       <li class="nav-item">
         <a class="nav-link" style="font-size: 30px; padding-right: 30px; font-weight: bold; font-family: 'Times New Roman', Times, serif;" href="#">ABOUT US</a>

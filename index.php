@@ -28,7 +28,7 @@
       <img class="d-block w-100" src="img/img_caro2.jpg" style="filter: opacity(50%); alt="Second slide">
        <div>
           <div class="carousel-caption text-start">
-            <p><a class="btn btn-lg btn-primary" href="#">View Articles</a></p>
+            <p><a class="btn btn-lg btn-primary" href="allArticles.php">View Articles</a></p>
           </div>
        </div>
     </div>
