@@ -40,7 +40,7 @@
     <a class="nav-link active" aria-current="page" style="font-size: 20px; padding-right: 30px;" href="IGManager.php">Image Upload</a>
   </li>
   <li class="nav-item">
-    <a class="nav-link" style="font-size: 20px; padding-right: 20px;" href="articleManager.php">Article Manager</a>
+    <a class="nav-link" style="font-size: 20px; padding-right: 20px;" href="AManager.php">Article Manager</a>
   </li>
   </ul>
   <ul class="navbar-nav px-3">
