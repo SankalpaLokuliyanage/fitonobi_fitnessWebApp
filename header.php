@@ -1,3 +1,7 @@
+<?php
+  session_start();
+?>
+
 <!doctype html>
 <html lang="en">
   <head>
@@ -56,14 +60,17 @@
   <div class="collapse navbar-collapse" id="collapsibleNavbar">
     <ul class="navbar-nav m-auto">
       <li class="nav-item">
-        <a class="nav-link" style="font-size: 40px; padding-right: 30px; font-weight: bold; font-family: 'Times New Roman', Times, serif;" href="index.php"> 
+        <a class="nav-link" style="font-size: 30px; padding-right: 30px; font-weight: bold; font-family: 'Times New Roman', Times, serif;" href="index.php"> 
           HOME</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" style="font-size: 40px; padding-right: 30px; font-weight: bold; font-family: 'Times New Roman', Times, serif;" href="#">ABOUT US</a>
+        <a class="nav-link" style="font-size: 30px; padding-right: 30px; font-weight: bold; font-family: 'Times New Roman', Times, serif;" href="imageGallery.php">IMAGE GALLERY</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" style="font-size: 40px; padding-right: 30px; font-weight: bold; font-family: 'Times New Roman', Times, serif;" href="#">ARTICLES</a>
+        <a class="nav-link" style="font-size: 30px; padding-right: 30px; font-weight: bold; font-family: 'Times New Roman', Times, serif;" href="#">ARTICLES</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" style="font-size: 30px; padding-right: 30px; font-weight: bold; font-family: 'Times New Roman', Times, serif;" href="#">ABOUT US</a>
       </li>
     </ul>
     <form class="d-flex">

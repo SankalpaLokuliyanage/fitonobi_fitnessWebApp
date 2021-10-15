@@ -36,7 +36,7 @@
       <img class="d-block w-100" src="img/img_caro3.jpg" style="filter: opacity(50%); alt="Third slide">
        <div>
           <div class="carousel-caption text-start">
-            <p><a class="btn btn-lg btn-primary" href="#">Image Gallery</a></p>
+            <p><a class="btn btn-lg btn-primary" href="imageGallery.php">Image Gallery</a></p>
           </div>
        </div>
     </div>
