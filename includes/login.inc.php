@@ -38,7 +38,7 @@
             $_SESSION['userId'] = $row['idUsers'];
             $_SESSION['userUId'] = $row['uidUsers'];
 
-            header("Location: ../IGMananger.php?login=adminsuccess");
+            header("Location: ../IGManager.php?login=adminsuccess");
             exit();
           } else {
             header("Location: ../register.php?error=wrongpwd");
@@ -85,7 +85,7 @@
             $_SESSION['userId'] = $row['idUsers'];
             $_SESSION['userUId'] = $row['uidUsers'];
 
-            header("Location: ../dashboardHeader.php?login=success");
+            header("Location: ../userArticle.php?login=success");
             exit();
           } else {
             header("Location: ../register.php?error=wrongpwd");
