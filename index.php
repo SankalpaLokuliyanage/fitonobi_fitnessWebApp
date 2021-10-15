@@ -19,7 +19,7 @@
           <div class="carousel-caption text-start" style="color: black;">
           	<h1>Join with us</h1>
             <p>You can share fitness experience with us.</p>
-            <p><a class="btn btn-lg btn-primary" href="#">Sign up today</a></p>
+            <p><a class="btn btn-lg btn-primary" href="register.php">Sign up today</a></p>
           </div>
        </div>
 
